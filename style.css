@@ -1,0 +1,23 @@
+body{
+    background-color: lightsalmon;
+}
+
+#score{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    margin-right: 160px;
+}
+
+#time{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#sketch_draw{
+    color: darkorchid;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
